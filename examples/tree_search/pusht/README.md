@@ -82,4 +82,4 @@ lerobot-eval \
 ```
 
 Detailed script options, visualization tools, and output layouts are documented
-in [pusht/README.md](pusht/README.md).
+in [pusht/README.md](docs.md).
